@@ -46,7 +46,7 @@ RESTful APIs · Authentication & Authorization (JWT/OAuth2) · MVC Architecture 
 
 ## 🌍 Let’s Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/)  
+- 💼 [LinkedIn](https://linkedin.com/in/abdulazeez-jimoh-8522a0344/)  
 - 🐙 [GitHub](https://github.com/devdammie)  
 ---
 
