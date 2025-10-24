@@ -21,7 +21,7 @@ A web platform where lecturers mark student attendance using **QR codes and faci
 
 ### 💰 Personal Finance Tracker (In Progress)  
 A **finance management tool** that helps users track income, expenses, and budgets — with **predictive insights** that analyze past behavior to forecast future spending trends.  
-**Tech:** TypeScript, Node.js, React, MongoDB  
+**Tech:** JavaScript, Node.js, React, MongoDB  
 
 ---
 
@@ -46,7 +46,6 @@ RESTful APIs · Authentication & Authorization (JWT/OAuth2) · MVC Architecture 
 
 ## 🌍 Let’s Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/abdulazeez-jimoh-8522a0344/)  
 - 🐙 [GitHub](https://github.com/devdammie)  
 ---
 
