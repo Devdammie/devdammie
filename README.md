@@ -9,29 +9,13 @@ Currently, I’m expanding my expertise in **TypeScript**, **API design**, and *
 
 ---
 
-## 🚀 What I Build  
-
-### 🎓 E-Learning Platform  
-A scalable platform that enables instructors to upload courses, and students to enroll, track progress, and complete assessments.  
-**Tech:** Node.js, Express.js, MongoDB, JWT Authentication  
-
-### 🧠 Smart Attendance System  
-A web platform where lecturers mark student attendance using **QR codes and facial recognition**, ensuring accuracy and eliminating manual records.  
-**Tech:** Node.js, Express.js, MongoDB, Face API  
-
-### 💰 Personal Finance Tracker (In Progress)  
-A **finance management tool** that helps users track income, expenses, and budgets — with **predictive insights** that analyze past behavior to forecast future spending trends.  
-**Tech:** JavaScript, Node.js, React, MongoDB  
-
----
-
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks:**  
 JavaScript (ES6+), TypeScript, Node.js, Express.js, React  
 
 **Databases & Tools:**  
-MongoDB, Git, GitHub, Postman  
+MongoDB,Postgress, Drizzle ORM, Neon, Git, GitHub, Postman  
 
 **Core Competencies:**  
 RESTful APIs · Authentication & Authorization (JWT/OAuth2) · MVC Architecture · Cloud Deployment · Agile Development  
