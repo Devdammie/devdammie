@@ -22,11 +22,6 @@ RESTful APIs · Authentication & Authorization (JWT/OAuth2) · MVC Architecture 
 
 ---
 
-## 📈 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdammie&layout=compact&theme=radical)
-
----
 
 ## 🌍 Let’s Connect  
 
