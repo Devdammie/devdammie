@@ -1,11 +1,11 @@
-# 👋 Hi there, I’m Abdulazeez(Devdammie) 
+# 👋 Hi there, I’m Devdammie 
 
 💻 **Full-Stack Developer | JavaScript | Node.js | Express.js | React | MongoDB | TypeScript**  
 
 I’m a passionate **Full-Stack Developer** focused on building scalable, user-centric web applications.  
 I enjoy solving complex backend problems, creating intuitive frontend experiences, and turning ideas into impactful solutions that drive growth and innovation.  
 
-Currently, I’m expanding my expertise in **TypeScript**, **API design**, and **cloud deployment** while contributing to open-source projects and real-world applications.
+Currently, I’m expanding my expertise, contributing to open-source projects and real-world applications.
 
 ---
 
