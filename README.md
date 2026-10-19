@@ -1,14 +1,8 @@
 <!--
   GitHub Profile README � Editorial Terminal (Hiring)
 -->
-
-<div align="center">
-
-  <img src="./assets/hero.svg" alt="DevDammie � Backend Systems Engineer" width="100%" />
-
-</div>
-
-<br />
+### Abdulazeez Jimoh
+---
 
 ** Software & Backend Systems Engineer** � TypeScript � Node.js � PostgreSQL  
 Obafemi Awolowo University � Computer Science with Mathematics   
@@ -48,14 +42,13 @@ Obafemi Awolowo University � Computer Science with Mathematics
 ### Currently
 
 Building production backend systems, refining multi-tenant SaaS architecture and contributing to Open Source projects.  
-Open to **Software Engineer** roles (and strong internship / early-career offers) � backend-heavy preferred.
+Open to **Software Engineer** roles  � backend-heavy preferred.
 
 
 ---
 
 ### Connect
 
-<!-- replace: paste your real links; leave unused rows commented out -->
 
 | | |
 | :--- | :--- |
@@ -65,13 +58,5 @@ Open to **Software Engineer** roles (and strong internship / early-career offers
 
 ---
 
-### GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devdammie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3" alt="devdammie GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdammie&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=e6edf3" alt="Top languages" />
-</div>
-
----
 
 
