@@ -53,7 +53,7 @@ Open to **Software Engineer** roles  � backend-heavy preferred.
 | | |
 | :--- | :--- |
 | Email | `damilolajimoh2020@gmail.com` |
-| LinkedIn | [linkedin Profile](https://www.linkedin.com/in/abdulazeez-jimoh-8522a0344) |
+| LinkedIn | [linkedin Profile](https://www.linkedin.com/) |
 | GitHub | [github.com/devdammie](https://github.com/devdammie) |
 
 ---
