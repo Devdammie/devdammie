@@ -4,8 +4,7 @@
 ### Abdulazeez Jimoh
 ---
 
-** Software & Backend Systems Engineer** � TypeScript � Node.js � PostgreSQL  
-Obafemi Awolowo University � Computer Science with Mathematics   
+#### Software & Backend Systems Engineer
 � Open to global & remote � **Available for Software Engineering roles**
 
 ---
